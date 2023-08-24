@@ -9,6 +9,11 @@ The program is used to electronically book seats on the bus.
 
 ## Technologies
 * C
+* Include stdio.h
+* Include stdlib.h
+* Include io.h
+* Include time.h
+* Include string.h
 
 ## Project status
 * Ready
